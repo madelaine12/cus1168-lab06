@@ -7,7 +7,7 @@ import java.util.List;
  */
 public class Main {
     public static void main(String[] args) {
-        // Create a repository for magazines
+
         Repository<Magazine> magazineRepository = new Repository<>();
 
         // Create several magazine instances
